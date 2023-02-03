@@ -13,6 +13,7 @@ In this repo, I present my vehicle motion control designs based on two ground ve
 
 
 ## Differential-driven vehicle
-![DDWMR](https://user-images.githubusercontent.com/36635562/216480633-2afef76f-2a27-411e-9e62-a9211d910fc8.png)
+![Picture1](https://user-images.githubusercontent.com/36635562/216480945-72334e39-5dff-4ed6-8388-d7127e9abbe0.png)
+
 
 
